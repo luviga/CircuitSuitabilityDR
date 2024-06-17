@@ -1,0 +1,4 @@
+pandas
+sphinx
+pydata-sphinx-theme
+sphinx_rtd_theme
