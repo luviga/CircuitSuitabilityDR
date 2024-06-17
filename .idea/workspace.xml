@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a044d76d-d79e-4143-a0a3-6a4d4a83ad6e" name="Changes" comment="Added .readthedocs.yaml again.">
+    <list default="true" id="a044d76d-d79e-4143-a0a3-6a4d4a83ad6e" name="Changes" comment="Changed format html to htmlzip">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.readthedocs.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.readthedocs.yaml" afterDir="false" />
     </list>
@@ -92,7 +92,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718591164068</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made further adjustments to .readthedocs.yaml">
+      <option name="closed" value="true" />
+      <created>1718591442442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718591442442</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Converted Python version to string in .readthedocs.yaml">
+      <option name="closed" value="true" />
+      <created>1718591555825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718591555825</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed format html to htmlzip">
+      <option name="closed" value="true" />
+      <created>1718591908618</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718591908618</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +143,10 @@
     <MESSAGE value="Added documentation files." />
     <MESSAGE value="Added .readthedocs.yaml" />
     <MESSAGE value="Added .readthedocs.yaml again." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .readthedocs.yaml again." />
+    <MESSAGE value="Made further adjustments to .readthedocs.yaml" />
+    <MESSAGE value="Converted Python version to string in .readthedocs.yaml" />
+    <MESSAGE value="Changed format html to htmlzip" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed format html to htmlzip" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CircuitSuitabilityDR$env_install_packages.coverage" NAME="env_install_packages Coverage Results" MODIFIED="1718581587371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
